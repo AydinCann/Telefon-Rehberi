@@ -1,0 +1,16 @@
+C:\Users\TCM\Desktop\Pratikler\Telefon Rehberi\bin\Debug\net5.0\Telefon Rehberi.exe
+C:\Users\TCM\Desktop\Pratikler\Telefon Rehberi\bin\Debug\net5.0\Telefon Rehberi.deps.json
+C:\Users\TCM\Desktop\Pratikler\Telefon Rehberi\bin\Debug\net5.0\Telefon Rehberi.runtimeconfig.json
+C:\Users\TCM\Desktop\Pratikler\Telefon Rehberi\bin\Debug\net5.0\Telefon Rehberi.runtimeconfig.dev.json
+C:\Users\TCM\Desktop\Pratikler\Telefon Rehberi\bin\Debug\net5.0\Telefon Rehberi.dll
+C:\Users\TCM\Desktop\Pratikler\Telefon Rehberi\bin\Debug\net5.0\ref\Telefon Rehberi.dll
+C:\Users\TCM\Desktop\Pratikler\Telefon Rehberi\bin\Debug\net5.0\Telefon Rehberi.pdb
+C:\Users\TCM\Desktop\Pratikler\Telefon Rehberi\obj\Debug\net5.0\Telefon Rehberi.csprojAssemblyReference.cache
+C:\Users\TCM\Desktop\Pratikler\Telefon Rehberi\obj\Debug\net5.0\Telefon Rehberi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TCM\Desktop\Pratikler\Telefon Rehberi\obj\Debug\net5.0\Telefon Rehberi.AssemblyInfoInputs.cache
+C:\Users\TCM\Desktop\Pratikler\Telefon Rehberi\obj\Debug\net5.0\Telefon Rehberi.AssemblyInfo.cs
+C:\Users\TCM\Desktop\Pratikler\Telefon Rehberi\obj\Debug\net5.0\Telefon Rehberi.csproj.CoreCompileInputs.cache
+C:\Users\TCM\Desktop\Pratikler\Telefon Rehberi\obj\Debug\net5.0\Telefon Rehberi.dll
+C:\Users\TCM\Desktop\Pratikler\Telefon Rehberi\obj\Debug\net5.0\ref\Telefon Rehberi.dll
+C:\Users\TCM\Desktop\Pratikler\Telefon Rehberi\obj\Debug\net5.0\Telefon Rehberi.pdb
+C:\Users\TCM\Desktop\Pratikler\Telefon Rehberi\obj\Debug\net5.0\Telefon Rehberi.genruntimeconfig.cache
